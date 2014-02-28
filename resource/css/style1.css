@@ -1,0 +1,46 @@
+#main_container, footer {
+    border-top: 1px solid #7ACEF4;
+}
+#main_container {
+    background: none repeat scroll 0 0 #0769AD;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+body {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: #333333;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    margin: 1em auto;
+    position: relative;
+    width: 960px;
+}
+body {
+    color: rgb(69, 69, 69);
+    font: 0.85em/130% tahoma,arial,geneva,verdana,sans;
+}
+body{
+    background:#333 url(/bg.jpg) repeat top left;
+    font-family:Arial;
+}
+
+#container, footer {
+    border-top: 1px solid #7ACEF4;
+}
+#container {
+    background: none repeat scroll 0 0 #0769AD;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+#header {
+    height: 186px;
+    padding: 0 40px;
+    position: relative;
+}
+.mcontent{
+    display: none;
+}
+#container1, #child_container, .child {
+    position: relative;
+    float: left;
+}
